@@ -1,8 +1,6 @@
 {
     "appKeys": {},
-    "capabilities": [
-        ""
-    ],
+    "capabilities": [ "location" ],
     "companyName": "chen.bill96@gmail.com",
     "longName": "NOTERCYCLE",
     "projectType": "pebblejs",
