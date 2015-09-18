@@ -98,7 +98,7 @@ ajax({url: URL,type: 'json'},
         break;
       }
     }
-    textfield.text("Dry next: " + hoursDry.toString() + "h\nBikable next: " + hoursBike.toString() + "h");
+    textfield.text("Dry next: " + hoursDry.toString() + "h\nBikeable next: " + hoursBike.toString() + "h");
   },
   function(error) {
     textfield.text("Failed to fetch data");
